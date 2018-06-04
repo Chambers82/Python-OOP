@@ -1,7 +1,7 @@
 # Programmer: Brent E. Chambers
 # Date: 06/03/2018
 # Filename: BuiltInAdd.py
-# Description: This demontration shows the builtin functions of objects that are used
+# Description: This demonstration shows the builtin functions of objects that are used
 #  in pythonic operations and expressions e.g. "String1 + String2"
 # Syntactical Magic Methods
 #
